@@ -3,7 +3,7 @@ var Amissa = Amissa || {};
 // Constants
 Amissa.GAME_SPEED = 800;
 Amissa.DAY_PER_STEP = 0.25;
-Amissa.EVENT_PROB = 0.25;
+Amissa.EVENT_PROB = 0.2;
 Amissa.FOOD_RATE = 0.1;
 Amissa.FINAL_DISTANCE = 1000;
 Amissa.ENEMY_STRENGTH_AVG = 6;
